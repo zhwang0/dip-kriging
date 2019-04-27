@@ -6,5 +6,7 @@ An image downscaling algorhitm for the final project. [Deep Image Prior](https:/
 
 - The codes used in this project is [a simplified version implemented using tensorflow](https://github.com/beala/deep-image-prior-tensorflow).
 
-## Universal Kriging 
-TODO
+## Ordinary Kriging 
+- The Ordinary Kriging is to remove the trend (DIP generated image) from the reference iamge, and then predict the residuals using the distance-based covariance. 
+
+## Workflow
